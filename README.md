@@ -1,5 +1,5 @@
 # Big Data Lab Submissions
-##This repository contains all the files for Big Data during Sem 6
+This repository contains all the files for Big Data during Sem 6
 
 
 Saloni Jaitly - J070
